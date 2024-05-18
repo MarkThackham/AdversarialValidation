@@ -1,8 +1,8 @@
 from datetime import date, timedelta
 
-class util:
+class AdvanedAnalytics:
     def __init__(self):
-        self.a=None
+        self._a=None
     
     def last_day(input1):
         temp=input1.replace(day=1) + timedelta(days=31)
