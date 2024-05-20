@@ -6,7 +6,7 @@ class AdvanedAnalytics:
     # IV
     # Correlation
     # VIF
-    # Adversarial Validati0n
+    # Adversarial Validation
     # RFECV
     # Optuna
     # FLAML
